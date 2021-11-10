@@ -1,5 +1,5 @@
 # Rinsta
-<img src="logo.png">
+<img src="logo.jpg">
 ## Author: github.com/rockyjaat47
 ## IG: instagram.com/rockyjaat111_
 ### Don't copy this code without give me the credits, 
